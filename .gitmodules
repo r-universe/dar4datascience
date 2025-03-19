@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/dar4datascience/dar4datascience.r-universe.dev
 	branch = HEAD
-[submodule "curl"]
-	path = curl
-	url = https://github.com/jeroen/curl
-[submodule "pdftools"]
-	path = pdftools
-	url = https://github.com/ropensci/pdftools
+[submodule "blackmarbler"]
+	path = blackmarbler
+	url = https://github.com/dar4datascience/blackmarbler
